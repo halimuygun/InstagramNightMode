@@ -517,3 +517,50 @@ a._q8ysx, a._q8ysx:visited {
     align-items: center;
     border-top: solid 1px #aaa;
 }
+._lfwfo {
+    background: #323232;
+    border-bottom: solid 1px #646464;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 16px;
+}
+._b9n99 {
+    background: #323232;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+}
+._6e4x5 {
+    border-bottom: solid 1px #646464;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding: 8px 16px;
+}
+._lyjak, ._p4iax {
+    border-radius: 3px;
+    border: 1px solid #646464;
+}
+._o5iw8, ._o5iw8:visited {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+}
